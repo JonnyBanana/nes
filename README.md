@@ -97,3 +97,12 @@ are some good resources:
 * [NES Documentation (PDF)](http://nesdev.com/NESDoc.pdf)
 * [NES Reference Guide (Wiki)](http://wiki.nesdev.com/w/index.php/NES_reference_guide)
 * [6502 CPU Reference](http://www.obelisk.me.uk/6502/reference.html)
+
+
+</BR>
+
+<a href="https://golden-farm.biz/?r=1673249" target="_blank">
+<img src="https://golden-farm.biz/images/promo/en/728x90.gif"
+alt="Profit every 10 minutes!"></a>
+
+
